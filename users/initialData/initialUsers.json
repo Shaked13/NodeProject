@@ -1,0 +1,68 @@
+[
+    {
+        "name": {
+            "first": "Tim",
+            "last": "Leon"
+        },
+        "isBusiness": "false",
+        "isAdmin": "false",
+        "phone": "0501234567",
+        "email": "tim@gmail.com",
+        "password": "User12345!",
+        "image": {
+            "url": "https://example.com/profile.jpg",
+            "alt": "dsdsdsddsdsd"
+        },
+        "address": {
+            "street": "jimo",
+            "city": "amsterdam",
+            "zip": "788",
+            "country": "holland",
+            "houseNumber": "28"
+        }
+    },
+    {
+        "name": {
+            "first": "Liron",
+            "last": "Moran"
+        },
+        "isBusiness": "true",
+        "isAdmin": "false",
+        "phone": "0507654125",
+        "email": "liron@gmail.com",
+        "password": "User12345!",
+        "image": {
+            "url": "https://example.com/profile.jpg",
+            "alt": "dsdsfkdpfkodpddsdsd"
+        },
+        "address": {
+            "street": "sea",
+            "city": "stockholm",
+            "zip": "1234",
+            "country": "sweden",
+            "houseNumber": "4"
+        }
+    },
+    {
+        "name": {
+            "first": "Admin",
+            "last": "Main"
+        },
+        "isBusiness": "true",
+        "isAdmin": "true",
+        "phone": "0521234577",
+        "email": "admin@gmail.com",
+        "password": "Admin12345!",
+        "image": {
+            "url": "https://example.com/profile.jpg",
+            "alt": "kodsodsodsdpsdps"
+        },
+        "address": {
+            "street": "sweet",
+            "city": "toronto",
+            "zip": "98",
+            "country": "canada",
+            "houseNumber": "39"
+        }
+    }
+]
